@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- Data retrieved from data.NASA (https://www.data.nasa.gov/)  -->
+<!-- http://data.nasa.gov/lunar-sample-display-locations/ -->
+
+	<Document>
+		<Folder>	
+			<Placemark>
+				<name>U.S. Space and Rocket Center</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12065,15]]></description>
+				<Point>
+					<coordinates>-86.6542,34.7114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arizona-Sonora Desert Museum</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 75015,54]]></description>
+				<Point>
+					<coordinates>-111.1681,32.2439,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ames Research Center</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15075,68]]></description>
+				<Point>
+					<coordinates>-122.0626,37.4152,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>California Academy of Sciences</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70035,18 <br />
+				Apollo 17 Lunar Sample Number 70035,69]]></description>
+				<Point>
+					<coordinates>-122.4664,37.7701,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chabot Space &amp; Science Center</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,879]]></description>
+				<Point>
+					<coordinates>-122.1806,37.8186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Griffith Observatory</name>
+				<description><![CDATA[<br /> Apollo 14 Lunar Sample Number 14321,1810]]></description>
+				<Point>
+					<coordinates>-118.3004,34.1186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jet Propulsion Laboratory</name>
+				<description><![CDATA[<br /> Apollo 14 Lunar Sample Number 14310,221]]></description>
+				<Point>
+					<coordinates>-118.171667,34.201694,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Diego Aerospace Museum</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70035,35]]></description>
+				<Point>
+					<coordinates>-117.1543,32.7263,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Richard Nixon Library &amp; Birthplace</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,160]]></description>
+				<Point>
+					<coordinates>-117.8194,33.8892,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>University of Colorado Heritage Center</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,884]]></description>
+				<Point>
+					<coordinates>-105.267222,40.006667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Geographic Society</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12053,93]]></description>
+				<Point>
+					<coordinates>-77.0379,38.9051,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smithsonian National Air &amp; Space Museum</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15016,20 <br />
+				Apollo 16 Lunar Sample Number 60025,53 <br />
+				Apollo 17 Lunar Sample Number 70051,55 <br />
+				Apollo 17 Lunar Sample Number 70215,84 <br />
+				Apollo 17 Lunar Sample Number 79135,102 <br />
+				Apollo 15 Lunar Sample Number 15459,447 <br />
+				Apollo 15 Lunar Sample Number 15459,19 <br />
+				Apollo 15 Lunar Sample Number 15555,880 <br />
+				Apollo 15 Lunar Sample Number 15555,210 <br />
+				Apollo 16 Lunar Sample Number 60025,54 <br />
+				Apollo 16 Lunar Sample Number 60025,126 <br />
+				Apollo 16 Lunar Sample Number 67915,276 <br />
+				Apollo 16 Lunar Sample Number 67915,302 <br />
+				Apollo 17 Lunar Sample Number 70051,51]]></description>
+				<Point>
+					<coordinates>-77.02,38.888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kennedy Space Center Visitor Complex</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70035,40 <br />
+				Apollo 17 Lunar Sample Number 70215,287]]></description>
+				<Point>
+					<coordinates>-80.6819,28.5233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Astronaut Ellison S. Onizuka Space Center</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 74255,38]]></description>
+				<Point>
+					<coordinates>-156.045556,19.738889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Adler Planetarium &amp; Astronomy Museum</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,767]]></description>
+				<Point>
+					<coordinates>-87.6067,41.8664,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chicago Museum of Science And Industry</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 79155,10]]></description>
+				<Point>
+					<coordinates>-87.5828,41.7906,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Indiana State Museum</name>
+				<description><![CDATA[<br /> Apollo 16 Lunar Sample Number 60025,821]]></description>
+				<Point>
+					<coordinates>-86.1692,39.7686,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eisenhower Library</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,461]]></description>
+				<Point>
+					<coordinates>-97.2108,38.9122,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kansas Cosmosphere and Space Center</name>
+				<description><![CDATA[<br /> Apollo 11 Lunar Sample Number 10020,57 <br />
+				Apollo 12 Surveyor Scoop with Lunar Dust Sample Number 12029,25]]></description>
+				<Point>
+					<coordinates>-97.9213,38.0653,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goddard Space Flight Center Visitor Center</name>
+				<description><![CDATA[<br /> Apollo 14 Lunar Sample Number 14310,215]]></description>
+				<Point>
+					<coordinates>-76.848333,38.996944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>John F. Kennedy Library and Museum</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,50]]></description>
+				<Point>
+					<coordinates>-71.034086,42.315892,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Air Zoo</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,54 <br />
+				Apollo 15 Lunar Sample Number 15555,170]]></description>
+				<Point>
+					<coordinates>-85.56,42.2322,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stennis Space Center Visitor Center</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15015,80]]></description>
+				<Point>
+					<coordinates>-89.6002,30.3628,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lodestar Astronomy Center, New Mexico Museum of Natural History and Science</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 71566,4]]></description>
+				<Point>
+					<coordinates>-106.6655,35.0981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Space Center Museum</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70215,93]]></description>
+				<Point>
+					<coordinates>-105.920734,32.921024,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>American Museum of Natural History</name>
+				<description><![CDATA[<br /> Apollo 14 Lunar Sample Number 14305,30 <br />
+				Apollo 15 Lunar Sample Number 15475,134 <br />
+				Apollo 16 Lunar Sample Number 60015,179 <br />
+				Apollo 17 Lunar Sample Number 70035,57]]></description>
+				<Point>
+					<coordinates>-73.9747,40.7806,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>U.S. Mission to the United Nations</name>
+				<description><![CDATA[<br /> Apollo 14 Lunar Sample Number 14321,86]]></description>
+				<Point>
+					<coordinates>-73.968889,40.750556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Carolina Museum of Life and Science</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15459,173]]></description>
+				<Point>
+					<coordinates>-78.89734,36.02865,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cleveland Museum of Natural History</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12055,35]]></description>
+				<Point>
+					<coordinates>-81.6133,41.5114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glenn Research Center Visitor Center</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15015,79]]></description>
+				<Point>
+					<coordinates>-81.8624,41.4128,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Neil Armstrong Air and Space Museum</name>
+				<description><![CDATA[<br /> Apollo 11 Lunar Sample Number 10017,37]]></description>
+				<Point>
+					<coordinates>-84.1711,40.5639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>United States Air Force Museum</name>
+				<description><![CDATA[<br /> Apollo 16 Lunar Sample Number 67455,1]]></description>
+				<Point>
+					<coordinates>-84.108892,39.781976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Franklin Institute Science Museum</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,463]]></description>
+				<Point>
+					<coordinates>-75.1736,39.9581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Carolina State Museum</name>
+				<description><![CDATA[<br /> Apollo 16 Lunar Sample Number 60015,177]]></description>
+				<Point>
+					<coordinates>-81.048056,33.998611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Houston Museum of Natural Science</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12018,13]]></description>
+				<Point>
+					<coordinates>-95.3896,29.7216,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lyndon B. Johnson Library &amp; Museum</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,161]]></description>
+				<Point>
+					<coordinates>-97.7292,30.2857,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Space Center Houston</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70215,238]]></description>
+				<Point>
+					<coordinates>-95.0983,29.5519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clark Planetarium</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,244 <br />
+				Apollo 15 Lunar Sample Number 15555,464]]></description>
+				<Point>
+					<coordinates>-111.9031,40.7675,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Virginia Air and Space Center</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70017,138]]></description>
+				<Point>
+					<coordinates>-76.3445,37.0239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wallops Flight Facility Visitor Center</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70035,59]]></description>
+				<Point>
+					<coordinates>-75.4572,37.9386,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museum of Flight</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12047,6]]></description>
+				<Point>
+					<coordinates>-122.3,47.519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canberra Deep Space Communications Complex</name>
+				<description><![CDATA[<br /> Apollo 11 Lunar Sample Number 10072,80]]></description>
+				<Point>
+					<coordinates>148.9817,-35.4014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camp Spatial Canada</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15545,87]]></description>
+				<Point>
+					<coordinates>-73.744,45.5668,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edmonton Space &amp; Sciences Centre</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,791]]></description>
+				<Point>
+					<coordinates>-113.5639,53.5601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MacMillan Space Centre</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 70215,263]]></description>
+				<Point>
+					<coordinates>-123.1444,49.2762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ontario Science Center</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15075,25]]></description>
+				<Point>
+					<coordinates>-79.3383,43.7167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tycho Brahe Planetarium</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 75015,53]]></description>
+				<Point>
+					<coordinates>12.5581,55.6744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cite de l'espace</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15499,10]]></description>
+				<Point>
+					<coordinates>1.4932,43.587,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Deutsches Technikmuseum Berlin</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 76015,143]]></description>
+				<Point>
+					<coordinates>13.3775,52.4986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museum of Contemporary History</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12055,32]]></description>
+				<Point>
+					<coordinates>7.118539,50.717397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rieskrater Museum</name>
+				<description><![CDATA[<br /> Apollo 16 Lunar Sample Number 66075,26]]></description>
+				<Point>
+					<coordinates>10.4869,48.8539,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Space World, Inc</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12006,1]]></description>
+				<Point>
+					<coordinates>130.81215,33.87352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Universum, Museo de las Ciencias de la Unam</name>
+				<description><![CDATA[<br /> Apollo 11 Lunar Sample Number 10045,19 <br />
+				Apollo 17 Lunar Sample Number 70215,286]]></description>
+				<Point>
+					<coordinates>-99.180556,19.311389,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Noordwijk Space Expo</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 77035,99]]></description>
+				<Point>
+					<coordinates>4.420833,52.215,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Museo Pambata Foundation</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12055,37]]></description>
+				<Point>
+					<coordinates>120.97711,14.57907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>World Intellectual Property Organization</name>
+				<description><![CDATA[<br /> Apollo 15 Lunar Sample Number 15555,766]]></description>
+				<Point>
+					<coordinates>6.1358,46.2219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Natural History Museum, London</name>
+				<description><![CDATA[<br /> Apollo 16 Lunar Sample Number 60015,87]]></description>
+				<Point>
+					<coordinates>-0.176372,51.495983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Museum of Wales</name>
+				<description><![CDATA[<br /> Apollo 12 Lunar Sample Number 12022,92]]></description>
+				<Point>
+					<coordinates>-3.1773,51.4858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Space Science Centre</name>
+				<description><![CDATA[<br /> Apollo 17 Lunar Sample Number 74255,14]]></description>
+				<Point>
+					<coordinates>-1.132406,52.654313,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>	
